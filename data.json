@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Bolzano 6 - Via Amba Alagi giardino",
+    "biossido_di_azoto": 67.0,
+    "ozono": 2.0,
+    "polveri_sottili_pm10": 0,
+    "polveri_sottili_pm2": 0
+  },
+  {
+    "name": "Bolzano 5 - Piazza Adriano",
+    "biossido_di_azoto": 65.0,
+    "ozono": 0,
+    "polveri_sottili_pm10": 39.0,
+    "polveri_sottili_pm2": 31.0
+  },
+  {
+    "name": "Bolzano 4 - Via C.Augusta",
+    "biossido_di_azoto": 71.0,
+    "ozono": 0,
+    "polveri_sottili_pm10": 47.0,
+    "polveri_sottili_pm2": 34.0
+  },
+  {
+    "name": "Bolzano, via Roma, ex-Saetta",
+    "biossido_di_azoto": 74.0,
+    "ozono": 1.0,
+    "polveri_sottili_pm10": 58.0,
+    "polveri_sottili_pm2": 0
+  },
+  {
+    "name": "Laives - Via Galizia",
+    "biossido_di_azoto": 70.0,
+    "ozono": 3.0,
+    "polveri_sottili_pm10": 43.0,
+    "polveri_sottili_pm2": 34.0
+  },
+  {
+    "name": "Autostrada Sud - Egna",
+    "biossido_di_azoto": 67.0,
+    "ozono": 1.0,
+    "polveri_sottili_pm10": 49.0,
+    "polveri_sottili_pm2": 41.0
+  },
+  {
+    "name": "autostrada Sud km 103, BrennerLEC",
+    "biossido_di_azoto": 81.0,
+    "ozono": 1.0,
+    "polveri_sottili_pm10": 49.0,
+    "polveri_sottili_pm2": 40.0
+  },
+  {
+    "name": "autostrada Sud km 107, BrennerLEC",
+    "biossido_di_azoto": 0,
+    "ozono": 0,
+    "polveri_sottili_pm10": 54.0,
+    "polveri_sottili_pm2": 43.0
+  },
+  {
+    "name": "Cortina ssdV - Strada del Vino",
+    "biossido_di_azoto": 62.0,
+    "ozono": 1.0,
+    "polveri_sottili_pm10": 0,
+    "polveri_sottili_pm2": 0
+  },
+  {
+    "name": "Merano - Via Trogmann",
+    "biossido_di_azoto": 71.0,
+    "ozono": 2.0,
+    "polveri_sottili_pm10": 37.0,
+    "polveri_sottili_pm2": 25.0
+  },
+  {
+    "name": "Laces - Via Stazione",
+    "biossido_di_azoto": 24.0,
+    "ozono": 22.0,
+    "polveri_sottili_pm10": 15.0,
+    "polveri_sottili_pm2": 11.0
+  },
+  {
+    "name": "Renon - Corno di Renon / Gr\u00fcnwald",
+    "biossido_di_azoto": 9.0,
+    "ozono": 73.0,
+    "polveri_sottili_pm10": 6.0,
+    "polveri_sottili_pm2": 0
+  },
+  {
+    "name": "Autostrada Nord - Bressanone",
+    "biossido_di_azoto": 80.0,
+    "ozono": 1.0,
+    "polveri_sottili_pm10": 28.0,
+    "polveri_sottili_pm2": 17.0
+  },
+  {
+    "name": "Bressanone - Villa Adele - Via Stazione",
+    "biossido_di_azoto": 32.0,
+    "ozono": 3.0,
+    "polveri_sottili_pm10": 26.0,
+    "polveri_sottili_pm2": 0
+  },
+  {
+    "name": "Brunico - Parcheggio Goethe",
+    "biossido_di_azoto": 47.0,
+    "ozono": 2.0,
+    "polveri_sottili_pm10": 16.0,
+    "polveri_sottili_pm2": 0
+  }
+]
